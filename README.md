@@ -5,3 +5,5 @@
 
 如图,使用本地替代，用github中的js文件替代网站的js文件即可
 ![图片](https://github.com/architectcgz/HFUT_DoLessonSurvey/assets/119087313/720a41a9-5904-4dab-8f93-441a5755464b)
+
+不会使用浏览器替换的自行学习...

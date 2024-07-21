@@ -13,5 +13,5 @@
 
 ![image](https://github.com/user-attachments/assets/2ba76076-2f4c-4924-af9e-96e291053841)
 
-
+如果到其他页面发现没有替换，刷新页面即可
 有其他关于替换的问题请自行解决

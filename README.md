@@ -14,5 +14,8 @@
 ![image](https://github.com/user-attachments/assets/2ba76076-2f4c-4924-af9e-96e291053841)
 
 如果到其他页面发现没有替换，按F12打开控制台后刷新页面即可
+或者返回评教页面，按F12，在你完成全部评教前不要关闭控制台
+![image](https://github.com/user-attachments/assets/879b7a78-b5b1-44f7-8ce0-7c9c0ac3a3b3)
+
 
 有其他关于替换的问题请自行解决
